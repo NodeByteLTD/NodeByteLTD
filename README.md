@@ -1,1 +1,1 @@
-![Profile Metrics](github-metrics.svg)
+![Profile Metrics!](github-metrics.svg)
